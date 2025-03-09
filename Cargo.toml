@@ -11,3 +11,6 @@ bevy_atmosphere = "0.12.2"
 bevy_rapier3d = "0.28.0"
 serde = "1.0.217"
 serde_yml = "0.0.12"
+
+[build]
+target = "arm-linux-androideabi"
